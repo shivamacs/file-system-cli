@@ -1,0 +1,14 @@
+{
+  "name": "file-system-cli",
+  "version": "1.0.0",
+  "description": "A simple command line utility to view and structurize files and folders.",
+  "main": "tpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Arora",
+  "license": "MIT",
+  "devDependencies": {
+    "uniqid": "^5.3.0"
+  }
+}
